@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "Example Series 1",
+    "description": "A sample series for testing the app.",
+    "poster": "https://via.placeholder.com/300x450?text=Series+1",
+    "episodes": [
+      {
+        "ep": 1,
+        "title": "Episode 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      },
+      {
+        "ep": 2,
+        "title": "Episode 2",
+        "url": "https://test-streams.mux.dev/bbb/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Example Series 2",
+    "description": "Another sample series for testing.",
+    "poster": "https://via.placeholder.com/300x450?text=Series+2",
+    "episodes": [
+      {
+        "ep": 1,
+        "title": "Episode 1",
+        "url": "https://test-streams.mux.dev/test_001/stream.m3u8"
+      }
+    ]
+  }
+]
